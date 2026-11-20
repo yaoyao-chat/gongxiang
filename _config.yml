@@ -1,0 +1,13 @@
+title: 'ChatGPT共享账号 2026：合租靠谱吗、会不会封、自己开 Plus 怎么选'
+description: 'ChatGPT共享账号（2026-11）：合租的三种形式、官方条款、会不会封、聊天记录谁能看到、和自己开 Plus 算账；国内可在瑶瑶ai训练师商城 ¥129 自己开（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/gongxiang"
